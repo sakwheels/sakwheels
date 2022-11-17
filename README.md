@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakwheels
+- 👋 Hi, I’m @Saxyam Acharya.
 - 👀 I’m interested in Automotive Industry & Embedded System.
 - 🌱 I’m currently studying Computer Engineering.  
 - 💞️ I’m looking to collaborate on ...
